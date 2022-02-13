@@ -1,3 +1,5 @@
+//  Cоздание галереи изображений с подключением библиотеки BasicLightBox
+
 import { galleryItems } from "./gallery-items.js";
 // Change code below this line
 
